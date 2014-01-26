@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitKillsEveryone", "BaseWindowsGame\BaseWindowsGame\MitKillsEveryone.csproj", "{E2BBD418-A01B-4E2F-992B-68FA13334B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitKillsEveryoneContent", "BaseWindowsGame\BaseWindowsGameContent\MitKillsEveryoneContent.contentproj", "{38205D7B-B8BA-43EE-8951-5A2474EE8616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BBD418-A01B-4E2F-992B-68FA13334B43}.Debug|x86.ActiveCfg = Debug|x86
+		{E2BBD418-A01B-4E2F-992B-68FA13334B43}.Debug|x86.Build.0 = Debug|x86
+		{E2BBD418-A01B-4E2F-992B-68FA13334B43}.Release|x86.ActiveCfg = Release|x86
+		{E2BBD418-A01B-4E2F-992B-68FA13334B43}.Release|x86.Build.0 = Release|x86
+		{38205D7B-B8BA-43EE-8951-5A2474EE8616}.Debug|x86.ActiveCfg = Debug|x86
+		{38205D7B-B8BA-43EE-8951-5A2474EE8616}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
